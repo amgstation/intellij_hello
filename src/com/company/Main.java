@@ -11,7 +11,7 @@ public class Main {
         System.out.println("Project Classic");
 
         System.out.println("Merge complete");
-	    System.out.println("HELLO THIS IS GITHUB");
-	    System.out.println("THIS IS LOCAL REPOSITORY");
+        System.out.println("HELLO THIS IS GITHUB");
+        System.out.println("THIS IS LOCAL REPOSITORY");
     }
 }
